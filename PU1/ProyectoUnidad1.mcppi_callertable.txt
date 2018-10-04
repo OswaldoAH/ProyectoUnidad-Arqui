@@ -1,0 +1,9 @@
+main
+	configurar
+interrupt
+	Secuencia
+		Incremento
+			Div_8X8_S
+		CorrimientoI_D
+		contador
+		Par_Impar
